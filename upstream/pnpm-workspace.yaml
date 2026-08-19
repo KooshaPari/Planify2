@@ -140,7 +140,7 @@ catalog:
   "pdf-parse": "^2.4.5"
   "postcss": "8.5.15"
   "postcss-cli": "^11.0.0"
-  "postcss-nested": "^6.0.1"
+  "postcss-nested": "^8.0.1"
   "prosemirror-codemark": "^0.4.2"
   "react": "18.3.1"
   "react-color": "^2.19.3"
