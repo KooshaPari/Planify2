@@ -27,7 +27,7 @@ catalog:
   "@hocuspocus/extension-redis": "2.15.2"
   "@hocuspocus/provider": "2.15.2"
   "@hocuspocus/server": "2.15.2"
-  "@hocuspocus/transformer": "2.15.2"
+  "@hocuspocus/transformer": "4.6.0"
   "@hypermod/utils": "^0.7.1"
   "@popperjs/core": "^2.11.8"
   "@radix-ui/react-scroll-area": "^1.2.3"
