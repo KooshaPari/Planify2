@@ -91,7 +91,7 @@ catalog:
   "@vitest/coverage-v8": "^4.1.8"
   "ast-types": "0.14.2"
   "autoprefixer": "^10.4.19"
-  "axios": "1.16.0"
+  "axios": "1.18.0"
   "buffer": "^6.0.3"
   "chroma-js": "^3.2.0"
   "class-variance-authority": "0.7.1"
@@ -138,7 +138,7 @@ catalog:
   "oxfmt": "0.35.0"
   "oxlint": "1.51.0"
   "pdf-parse": "^2.4.5"
-  "postcss": "8.5.15"
+  "postcss": "8.5.23"
   "postcss-cli": "^11.0.0"
   "postcss-nested": "^6.0.1"
   "prosemirror-codemark": "^0.4.2"
@@ -155,16 +155,16 @@ catalog:
   "react-masonry-component": "^6.3.0"
   "react-pdf-html": "^2.1.2"
   "react-popper": "^2.3.0"
-  "react-router": "7.15.1"
+  "react-router": "7.18.2"
   "recharts": "^2.15.1"
   "reflect-metadata": "^0.2.2"
   "rehype-parse": "^9.0.1"
   "rehype-remark": "^10.0.1"
   "remark-gfm": "^4.0.1"
   "remark-stringify": "^11.0.0"
-  "sanitize-html": "2.17.0"
+  "sanitize-html": "2.17.5"
   "serve": "14.2.5"
-  "sharp": "^0.34.3"
+  "sharp": "^0.35.0"
   "smooth-scroll-into-view-if-needed": "^2.0.2"
   "storybook": "10.4.6"
   "swr": "2.2.4"
@@ -225,7 +225,7 @@ overrides:
   "yaml@2": 2.8.3
   path-to-regexp: 0.1.13
   defu: 6.1.5
-  postcss: 8.5.15
+  postcss: 8.5.23
   axios: "catalog:"
   follow-redirects: 1.16.0
   uuid: "catalog:"
