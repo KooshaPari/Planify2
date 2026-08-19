@@ -367,8 +367,8 @@ catalogs:
       specifier: ^3.0.0
       version: 3.3.0
     lucide-react:
-      specifier: 0.469.0
-      version: 0.469.0
+      specifier: 1.31.0
+      version: 1.31.0
     mdast:
       specifier: ^3.0.0
       version: 3.0.0
@@ -664,7 +664,7 @@ importers:
         version: 4.18.1
       lucide-react:
         specifier: 'catalog:'
-        version: 0.469.0(react@18.3.1)
+        version: 1.31.0(react@18.3.1)
       mobx:
         specifier: 'catalog:'
         version: 6.12.0
@@ -948,7 +948,7 @@ importers:
         version: 4.18.1
       lucide-react:
         specifier: 'catalog:'
-        version: 0.469.0(react@18.3.1)
+        version: 1.31.0(react@18.3.1)
       mobx:
         specifier: 'catalog:'
         version: 6.12.0
@@ -1123,7 +1123,7 @@ importers:
         version: 4.18.1
       lucide-react:
         specifier: 'catalog:'
-        version: 0.469.0(react@18.3.1)
+        version: 1.31.0(react@18.3.1)
       mobx:
         specifier: 'catalog:'
         version: 6.12.0
@@ -1422,7 +1422,7 @@ importers:
         version: 3.3.0
       lucide-react:
         specifier: 'catalog:'
-        version: 0.469.0(react@18.3.1)
+        version: 1.31.0(react@18.3.1)
       prosemirror-codemark:
         specifier: 'catalog:'
         version: 0.4.2(prosemirror-inputrules@1.5.0)(prosemirror-model@1.25.3)(prosemirror-state@1.4.3)(prosemirror-view@1.40.0)
@@ -1603,7 +1603,7 @@ importers:
         version: 0.3.0(react@18.3.1)(typescript@5.8.3)
       lucide-react:
         specifier: 'catalog:'
-        version: 0.469.0(react@18.3.1)
+        version: 1.31.0(react@18.3.1)
       react:
         specifier: 'catalog:'
         version: 18.3.1
@@ -1811,7 +1811,7 @@ importers:
         version: 4.18.1
       lucide-react:
         specifier: 'catalog:'
-        version: 0.469.0(react@18.3.1)
+        version: 1.31.0(react@18.3.1)
       react:
         specifier: 'catalog:'
         version: 18.3.1
@@ -1926,7 +1926,7 @@ importers:
         version: 4.18.1
       lucide-react:
         specifier: 'catalog:'
-        version: 0.469.0(react@18.3.1)
+        version: 1.31.0(react@18.3.1)
       mdast:
         specifier: 'catalog:'
         version: 3.0.0
@@ -5994,6 +5994,7 @@ packages:
 
   crypto-js@4.2.0:
     resolution: {integrity: sha512-KALDyEYgpY+Rlob/iriUtjV6d5Eq+Y191A5g4UqLAi8CyGP9N1+FdVbkc1SxKc2r4YAYqG8JzO2KGL+AizD70Q==}
+    deprecated: Active development of CryptoJS has been discontinued. This library is no longer maintained.
 
   css-loader@7.1.4:
     resolution: {integrity: sha512-vv3J9tlOl04WjiMvHQI/9tmIrCxVrj6PFbHemBB1iihpeRbi/I4h033eoFIhwxBBqLhI0KYFS7yvynBFhIZfTw==}
@@ -7522,8 +7523,8 @@ packages:
   lru-cache@5.1.1:
     resolution: {integrity: sha512-KpNARQA3Iwv+jTA0utUVVbrh+Jlrr1Fv0e56GGzAFOXN7dk/FviaDW8LHmK52DlcH4WP2n6gI8vN1aesBFgo9w==}
 
-  lucide-react@0.469.0:
-    resolution: {integrity: sha512-28vvUnnKQ/dBwiCQtwJw7QauYnE7yd2Cyp4tTTJpvglX4EMpbflcdBgrgToX2j71B3YvugK/NH3BGUk+E/p/Fw==}
+  lucide-react@1.31.0:
+    resolution: {integrity: sha512-G8u2eEtoHUnUa9f8lbvqDhCiORMnYLdUEo06EEG9MQvHQrInKcX3Pa2TH39MM5qyzRcWETxB0+aOwAPI1g1kEg==}
     peerDependencies:
       react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0
 
@@ -15186,7 +15187,7 @@ snapshots:
     dependencies:
       yallist: 3.1.1
 
-  lucide-react@0.469.0(react@18.3.1):
+  lucide-react@1.31.0(react@18.3.1):
     dependencies:
       react: 18.3.1
 
