@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "name": "Microservices / Monolith Balance",
+    "category": "Architecture",
+    "score": 75,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 2,
+    "name": "Backend (Django) Code Organization",
+    "category": "Architecture",
+    "score": 68,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 3,
+    "name": "Frontend (Next.js / Astro) Component Structure",
+    "category": "Architecture",
+    "score": 72,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 4,
+    "name": "CI/CD Pipeline Efficiency",
+    "category": "DevOps",
+    "score": 65,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 5,
+    "name": "Containerization & Orchestration",
+    "category": "DevOps",
+    "score": 58,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 6,
+    "name": "Authentication & Authorization",
+    "category": "Security",
+    "score": 70,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 7,
+    "name": "Dependency Scanning",
+    "category": "Security",
+    "score": 62,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 8,
+    "name": "Unit Test Coverage (Backend)",
+    "category": "Testing",
+    "score": 60,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 9,
+    "name": "Unit Test Coverage (Frontend)",
+    "category": "Testing",
+    "score": 55,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 10,
+    "name": "End-to-End Test Automation",
+    "category": "Testing",
+    "score": 45,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 11,
+    "name": "API Documentation (OpenAPI)",
+    "category": "Documentation",
+    "score": 75,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 12,
+    "name": "Architecture Decision Records",
+    "category": "Documentation",
+    "score": 40,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 13,
+    "name": "Backend Query Optimization",
+    "category": "Performance",
+    "score": 65,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 14,
+    "name": "Frontend Load Speed",
+    "category": "Performance",
+    "score": 72,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 15,
+    "name": "WCAG 2.1 Compliance",
+    "category": "Accessibility",
+    "score": 50,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 16,
+    "name": "Multi-language Support",
+    "category": "i18n",
+    "score": 35,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 17,
+    "name": "RESTful Consistency",
+    "category": "API Design",
+    "score": 70,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 18,
+    "name": "API Versioning Strategy",
+    "category": "API Design",
+    "score": 60,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 19,
+    "name": "Client-side State Management",
+    "category": "State Management",
+    "score": 68,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 20,
+    "name": "Build Tool Configuration",
+    "category": "Build System",
+    "score": 75,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 21,
+    "name": "Linting & Formatting",
+    "category": "Code Quality",
+    "score": 80,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 22,
+    "name": "Code Complexity Management",
+    "category": "Code Quality",
+    "score": 65,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 23,
+    "name": "Structured Logging",
+    "category": "Observability",
+    "score": 60,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 24,
+    "name": "Error Handling",
+    "category": "Reliability",
+    "score": 62,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 25,
+    "name": "Database Schema Design",
+    "category": "Data Layer",
+    "score": 70,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 26,
+    "name": "Migration Strategy",
+    "category": "Data Layer",
+    "score": 65,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 27,
+    "name": "Identity Management",
+    "category": "Auth",
+    "score": 68,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 28,
+    "name": "WebSocket / SSE Implementation",
+    "category": "Realtime",
+    "score": 45,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 29,
+    "name": "Mobile Responsiveness",
+    "category": "Mobile",
+    "score": 75,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 30,
+    "name": "Component Library Consistency",
+    "category": "Design System",
+    "score": 70,
+    "maxScore": 100,
+    "status": "scored"
+  },
+  {
+    "id": 31,
+    "name": "Release Versioning",
+    "category": "Release Management",
+    "score": 55,
+    "maxScore": 100,
+    "status": "scored"
+  }
+]
